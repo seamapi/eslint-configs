@@ -45,7 +45,7 @@ For use in React code.
 
 > Components are configs that can be used to construct new standards or to
 
-### `api1` API/Server Naming Conventions (2021+)
+### `naming1` API/Server Naming Conventions (2021+)
 
 For use in API/Server code.
 
