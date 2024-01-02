@@ -12,7 +12,7 @@ In your `.eslintrc` and `.eslintrc.js` file, add the following lines:
 
 ```js
 module.exports = {
-  extends: '@seamapi/eslint-configs/std1',
+  extends: ['./node_modules/@seamapi/eslint-configs/std1'],
 }
 ```
 
